@@ -42,7 +42,7 @@ export default function Layout() {
         <div className="px-5 py-5 border-b border-border">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center text-white font-display font-bold text-sm">T</div>
-            <span className="font-display font-bold text-lg tracking-tight text-white">TeamFlow</span>
+            <span className="font-display font-bold text-lg tracking-tight text-white">TeamTask</span>
           </div>
         </div>
 
@@ -113,7 +113,7 @@ export default function Layout() {
           >
             ☰
           </button>
-          <span className="font-display font-bold text-white">TeamFlow</span>
+          <span className="font-display font-bold text-white">TeamTask</span>
         </header>
 
         <main className="flex-1 overflow-y-auto">

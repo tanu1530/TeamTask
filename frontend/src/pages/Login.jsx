@@ -36,7 +36,7 @@ export default function Login() {
         <div className="text-center mb-8">
           <div className="inline-flex items-center gap-3 mb-3">
             <div className="w-10 h-10 bg-accent rounded-xl flex items-center justify-center text-white font-display font-bold">T</div>
-            <span className="font-display font-bold text-2xl text-white tracking-tight">TeamFlow</span>
+            <span className="font-display font-bold text-2xl text-white tracking-tight">TeamTask</span>
           </div>
           <p className="text-slate-400 text-sm">Sign in to your workspace</p>
         </div>

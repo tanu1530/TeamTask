@@ -1,4 +1,4 @@
-# 🚀 TeamFlow — Team Task Manager
+# 🚀 TeamTask — Team Task Manager
 
 A full-stack project & task management web app with role-based access control, built with **React + FastAPI + SQLite**.
 
